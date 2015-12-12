@@ -10,5 +10,6 @@ attributes:
     cask_apps:
       - spotify
       - iterm2
+      - hammerspoon
   osxdefaults:
     computername: Sphere
