@@ -7,5 +7,3 @@ Cheffile.lock
 .librarian
 Gemfile.lock
 tmp/
-
-config/groups/work*.yml
