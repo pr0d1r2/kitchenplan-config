@@ -2,6 +2,7 @@ groups:
   - desktop
   - work
   - dt
+  - dt_core
 recipes:
   mac_os_x:
     - osxdefaults::disable_auto-correct

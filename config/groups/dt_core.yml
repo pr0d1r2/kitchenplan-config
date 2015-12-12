@@ -1,0 +1,5 @@
+attributes:
+  homebrewalt:
+    apps:
+      - pr0d1r2/contrib/wkhtmltopdf-old
+      - redis

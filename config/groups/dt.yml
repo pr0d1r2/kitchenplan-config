@@ -2,6 +2,5 @@ attributes:
   homebrewalt:
     apps:
       - mysql
-      - redis
     cask_apps:
       - firefox
