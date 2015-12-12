@@ -11,5 +11,6 @@ attributes:
       - spotify
       - iterm2
       - hammerspoon
+      - commandq
   osxdefaults:
     computername: Sphere
