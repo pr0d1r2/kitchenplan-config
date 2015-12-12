@@ -13,3 +13,4 @@ attributes:
     cask_apps:
       - time-tracker
       - skype
+      - google-hangouts
