@@ -1,3 +1,6 @@
+recipes:
+  mac_os_x:
+    - janus::default
 attributes:
   homebrewalt:
     apps:
