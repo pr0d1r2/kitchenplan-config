@@ -1,24 +1,10 @@
 groups:
   - desktop
   - work
+  - dt
 recipes:
   mac_os_x:
     - osxdefaults::disable_auto-correct
     - osxdefaults::disable_natural_scrolling
     - osxdefaults::dock_automatically_hide_and_show_the_dock
     - dotfiles::oh-my-zsh
-attributes:
-  homebrewalt:
-    apps:
-      - ack
-      - ag
-      - axel
-      - git
-      - macvim
-      - rbenv
-      - rbenv-aliases
-      - rhash
-      - ruby-build
-      - wget
-    cask_apps:
-      - iterm2
