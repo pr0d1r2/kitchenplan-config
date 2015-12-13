@@ -18,5 +18,10 @@ attributes:
           - '2.2.3'
           - '2.2.0'
         global: '2.2.3'
+        gems:
+          '2.2.3':
+            - name: 'bundler'
+          '2.2.0':
+            - name: 'bundler'
   change_shell:
     - { username: 'pr0d1r2', shell: '/usr/local/bin/zsh' }
