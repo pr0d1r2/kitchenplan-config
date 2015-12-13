@@ -2,6 +2,7 @@ recipes:
   mac_os_x:
     - ruby-bundle-el-captain-fixes::eventmachine
     - ruby-bundle-el-captain-fixes::puma
+    - ruby-bundle-el-captain-fixes::libv8
 attributes:
   homebrewalt:
     apps:
