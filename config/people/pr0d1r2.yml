@@ -25,7 +25,9 @@ attributes:
     user_gems:
       '2.2.3':
         - name: 'bundler'
+          action: 'install'
       '2.2.0':
         - name: 'bundler'
+          action: 'install'
   change_shell:
     - { username: 'pr0d1r2', shell: '/usr/local/bin/zsh' }
