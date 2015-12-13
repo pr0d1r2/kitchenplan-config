@@ -1,7 +1,6 @@
 recipes:
   mac_os_x:
     - osxdefaults::set_computer_name
-    - change-shell::default
 attributes:
   homebrewalt:
     apps:
