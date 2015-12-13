@@ -10,3 +10,7 @@ recipes:
     - osxdefaults::dock_automatically_hide_and_show_the_dock
     - dotfiles::oh-my-zsh
     - dotfiles::gitconfig
+attributes:
+  rbenv:
+    user_installs:
+      - { user: 'pr0d1r2', rubies: ['2.2.3', '2.2.0'], global: '2.2.3' }

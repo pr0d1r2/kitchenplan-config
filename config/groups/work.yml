@@ -3,6 +3,8 @@ recipes:
     - janus::default
     - dotjanus::default
     - dotfiles::gemrc
+    - ruby_build::default
+    - ruby_rbenv::user
 attributes:
   homebrewalt:
     apps:
@@ -19,3 +21,5 @@ attributes:
       - time-tracker
       - skype
       - google-hangouts
+  rbenv:
+    create_profiled: false
