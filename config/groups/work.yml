@@ -2,6 +2,7 @@ recipes:
   mac_os_x:
     - janus::default
     - dotjanus::default
+    - dotfiles::gemrc
 attributes:
   homebrewalt:
     apps:
