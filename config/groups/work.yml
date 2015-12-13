@@ -13,10 +13,6 @@ attributes:
       - ag
       - git
       - macvim
-      - rbenv
-      - rbenv-aliases
-      - rhash
-      - ruby-build
     cask_apps:
       - time-tracker
       - skype
