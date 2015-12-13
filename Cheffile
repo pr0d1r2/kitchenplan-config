@@ -10,7 +10,7 @@ cookbook "sudoalt",               :github => "kitchenplan/chef-sudoalt",        
 cookbook "dmg",                   :github => "opscode-cookbooks/dmg",           :ref => "v2.1.4"
 cookbook "janus",                 :github => "pr0d1r2/osx-chef-janus"
 cookbook "dotjanus",              :github => "pr0d1r2/osx-chef-dotjanus"
-cookbook "ruby_build",            :github => "fnichol/chef-ruby_build"
+cookbook "ruby_build",            :github => "pr0d1r2/chef-ruby_build"
 cookbook "ruby_rbenv",            :github => "pr0d1r2/ruby_rbenv"
 cookbook "change-shell",          :github => "pr0d1r2/chef-change-shell"
 
