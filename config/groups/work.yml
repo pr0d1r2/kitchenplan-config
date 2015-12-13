@@ -19,3 +19,6 @@ attributes:
       - google-hangouts
   rbenv:
     create_profiled: false
+    plugins:
+      - name: 'rbenv-gem-rehash',
+        git_url: 'https://github.com/sstephenson/rbenv-gem-rehash.git'
