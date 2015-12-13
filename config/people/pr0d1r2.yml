@@ -13,6 +13,10 @@ recipes:
 attributes:
   rbenv:
     user_installs:
-      - { user: 'pr0d1r2', rubies: ['2.2.3', '2.2.0'], global: '2.2.3' }
+      - user: 'pr0d1r2'
+        rubies:
+          - '2.2.3'
+          - '2.2.0'
+        global: '2.2.3'
   change_shell:
     - { username: 'pr0d1r2', shell: '/usr/local/bin/zsh' }
