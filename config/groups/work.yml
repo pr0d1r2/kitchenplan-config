@@ -19,3 +19,4 @@ attributes:
       - google-hangouts
   rbenv:
     create_profiled: false
+  mysql_root_password: "password"

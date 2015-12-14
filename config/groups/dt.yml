@@ -1,6 +1,7 @@
+recipes:
+  global:
+    - applications::mysql
 attributes:
   homebrewalt:
-    apps:
-      - mysql
     cask_apps:
       - firefox
