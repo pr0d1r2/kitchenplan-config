@@ -1,6 +1,6 @@
 recipes:
   global:
-    - applications::mysql
+    - mysql55::default
 attributes:
   homebrewalt:
     cask_apps:

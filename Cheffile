@@ -13,5 +13,6 @@ cookbook "dotjanus",              :github => "pr0d1r2/osx-chef-dotjanus"
 cookbook "ruby_build",            :github => "pr0d1r2/chef-ruby_build"
 cookbook "ruby_rbenv",            :github => "pr0d1r2/ruby_rbenv"
 cookbook "change-shell",          :github => "pr0d1r2/chef-change-shell"
+cookbook "mysql55",               :github => "pr0d1r2/osx-chef-mysql55"
 
 cookbook "ruby-bundle-el-captain-fixes",          :github => "pr0d1r2/osx-chef-ruby-bundle-el-captain-fixes"
