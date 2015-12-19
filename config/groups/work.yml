@@ -13,6 +13,7 @@ attributes:
       - ag
       - git
       - macvim
+      - rpl
     cask_apps:
       - time-tracker
       - skype
