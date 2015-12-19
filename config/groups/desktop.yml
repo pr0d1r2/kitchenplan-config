@@ -12,5 +12,6 @@ attributes:
       - iterm2
       - hammerspoon
       - commandq
+      - tunnelblick
   osxdefaults:
     computername: Sphere
