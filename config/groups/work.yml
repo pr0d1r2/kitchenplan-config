@@ -18,6 +18,7 @@ attributes:
       - time-tracker
       - skype
       - google-hangouts
+      - charles
   rbenv:
     create_profiled: false
   mysql_root_password: "password"
