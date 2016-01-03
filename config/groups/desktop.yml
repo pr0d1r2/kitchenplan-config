@@ -13,5 +13,7 @@ attributes:
       - hammerspoon
       - commandq
       - tunnelblick
+      - torbrowser
+      - youtube-dl
   osxdefaults:
     computername: Sphere
