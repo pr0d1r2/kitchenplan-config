@@ -7,6 +7,7 @@ attributes:
       - htop-osx
       - axel
       - wget
+      - youtube-dl
     cask_apps:
       - spotify
       - iterm2
@@ -14,6 +15,5 @@ attributes:
       - commandq
       - tunnelblick
       - torbrowser
-      - youtube-dl
   osxdefaults:
     computername: Sphere
