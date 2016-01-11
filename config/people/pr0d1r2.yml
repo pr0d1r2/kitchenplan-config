@@ -29,6 +29,7 @@ recipes:
     - osxdefaults::save_screenshots_in_png_format
     - osxdefaults::save_screenshots_to_the_desktop
     - osxdefaults::turn_off_keyboard_illumination_when_computer_is_not_used_for_5_minutes
+    - osxdefaults::menu_hide
     - dotfiles::oh-my-zsh
     - dotfiles::gitconfig
     - change-shell::default
