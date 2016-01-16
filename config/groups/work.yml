@@ -19,6 +19,7 @@ attributes:
       - skype
       - google-hangouts
       - charles
+      - sourcetree
   rbenv:
     create_profiled: false
   mysql_root_password: "password"
