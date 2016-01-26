@@ -15,5 +15,6 @@ attributes:
       - commandq
       - tunnelblick
       - torbrowser
+      - cleanmymac
   osxdefaults:
     computername: Sphere
