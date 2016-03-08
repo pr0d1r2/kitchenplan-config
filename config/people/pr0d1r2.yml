@@ -32,6 +32,7 @@ recipes:
     - osxdefaults::menu_hide
     - dotfiles::oh-my-zsh
     - dotfiles::gitconfig
+    - dotfiles::editrc
     - change-shell::default
 attributes:
   rbenv:
