@@ -20,6 +20,7 @@ attributes:
       - google-hangouts
       - charles
       - sourcetree
+      - libreoffice
   rbenv:
     create_profiled: false
   mysql_root_password: "password"
