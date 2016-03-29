@@ -22,6 +22,7 @@ attributes:
       - charles
       - sourcetree
       - libreoffice
+      - grammarly
   rbenv:
     create_profiled: false
   mysql_root_password: "password"
