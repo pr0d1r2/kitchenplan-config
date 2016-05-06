@@ -24,6 +24,7 @@ attributes:
       - sourcetree
       - libreoffice
       - grammarly
+      - obs
   rbenv:
     create_profiled: false
   mysql_root_password: "password"
