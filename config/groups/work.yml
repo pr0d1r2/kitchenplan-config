@@ -15,6 +15,7 @@ attributes:
       - macvim
       - rpl
       - git-extras
+      - ffmpeg
     cask_apps:
       - time-tracker
       - skype
