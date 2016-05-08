@@ -16,6 +16,7 @@ attributes:
       - rpl
       - git-extras
       - ffmpeg
+      - python
     cask_apps:
       - time-tracker
       - skype
