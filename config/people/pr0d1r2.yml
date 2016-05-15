@@ -3,6 +3,7 @@ groups:
   - work
   - dt
   - dt_core
+  - odroid
 recipes:
   mac_os_x:
     - osxdefaults::check_for_software_updates_daily
