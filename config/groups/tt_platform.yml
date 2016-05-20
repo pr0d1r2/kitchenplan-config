@@ -1,0 +1,15 @@
+recipes:
+  global:
+    - postgres::default
+    - mailhog::default
+    - elasticsearch17::default
+    - elasticsearch-analysis-icu::default
+attributes:
+  homebrewalt:
+    formulas:
+      - node
+      - pkgconfig
+      - imagemagick
+      - chromedriver
+    casks:
+      - java

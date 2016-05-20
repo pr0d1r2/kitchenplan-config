@@ -1,0 +1,8 @@
+attributes:
+  homebrew:
+    casks:
+      - zoomus
+      - slack
+      - dropbox
+      - lastpass
+      - screenhero

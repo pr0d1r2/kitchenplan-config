@@ -4,6 +4,8 @@ groups:
   - dt
   - dt_core
   - odroid
+  - tt
+  - tt_platform
 recipes:
   mac_os_x:
     - osxdefaults::check_for_software_updates_daily
