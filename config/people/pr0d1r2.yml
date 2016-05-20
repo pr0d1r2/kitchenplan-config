@@ -36,6 +36,8 @@ recipes:
     - dotfiles::editrc
     - change-shell::default
 attributes:
+  user:
+    id: 'pr0d1r2'
   rbenv:
     user_installs:
       - user: 'pr0d1r2'
