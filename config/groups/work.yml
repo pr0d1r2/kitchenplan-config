@@ -6,8 +6,8 @@ recipes:
     - ruby_build::default
     - ruby_rbenv::user
 attributes:
-  homebrewalt:
-    apps:
+  homebrew:
+    formulas:
       - terminal-notifier
       - ack
       - ag
@@ -17,7 +17,7 @@ attributes:
       - git-extras
       - ffmpeg
       - python
-    cask_apps:
+    casks:
       - time-tracker
       - skype
       - google-hangouts

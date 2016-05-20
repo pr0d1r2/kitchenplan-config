@@ -2,13 +2,13 @@ recipes:
   mac_os_x:
     - osxdefaults::set_computer_name
 attributes:
-  homebrewalt:
-    apps:
+  homebrew:
+    formulas:
       - htop-osx
       - axel
       - wget
       - youtube-dl
-    cask_apps:
+    casks:
       - spotify
       - iterm2
       - hammerspoon

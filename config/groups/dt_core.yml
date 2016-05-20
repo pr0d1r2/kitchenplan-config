@@ -4,8 +4,8 @@ recipes:
     - ruby-bundle-el-captain-fixes::puma
     - ruby-bundle-el-captain-fixes::libv8
 attributes:
-  homebrewalt:
-    apps:
+  homebrew:
+    formulas:
       - pr0d1r2/contrib/wkhtmltopdf-old
       - redis
       - graphviz

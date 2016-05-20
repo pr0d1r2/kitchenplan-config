@@ -1,4 +1,4 @@
 attributes:
-  homebrewalt:
-    apps:
+  homebrew:
+    formulas:
       - qemu
