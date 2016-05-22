@@ -6,6 +6,7 @@ groups:
   - odroid
   - tt
   - tt_platform
+  - ios
 recipes:
   mac_os_x:
     - osxdefaults::check_for_software_updates_daily
