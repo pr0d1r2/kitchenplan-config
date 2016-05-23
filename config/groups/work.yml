@@ -18,6 +18,7 @@ attributes:
       - ffmpeg
       - python
       - pwgen
+      - pgtune
     casks:
       - time-tracker
       - skype
