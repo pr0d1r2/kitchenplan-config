@@ -5,7 +5,7 @@ recipes:
     - elasticsearch17::default
     - elasticsearch-analysis-icu::default
 attributes:
-  homebrewalt:
+  homebrew:
     formulas:
       - node
       - pkgconfig
