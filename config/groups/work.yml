@@ -17,6 +17,7 @@ attributes:
       - git-extras
       - ffmpeg
       - python
+      - pwgen
     casks:
       - time-tracker
       - skype
