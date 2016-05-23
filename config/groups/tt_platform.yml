@@ -8,6 +8,7 @@ attributes:
   homebrew:
     formulas:
       - node
+      - sqlite3
       - pkgconfig
       - imagemagick
       - chromedriver
