@@ -12,5 +12,6 @@ attributes:
       - pkgconfig
       - imagemagick
       - chromedriver
+      - redis
     casks:
       - java
