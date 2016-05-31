@@ -8,6 +8,7 @@ attributes:
       - axel
       - wget
       - youtube-dl
+      - rsync
     casks:
       - spotify
       - iterm2
