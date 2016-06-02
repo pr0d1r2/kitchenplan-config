@@ -1,6 +1,6 @@
 site "http://community.opscode.com/api/v1"
 
-cookbook 'homebrew',    '~> 2.0.5'
+cookbook 'homebrew',    '~> 2.1.0'
 cookbook "osxdefaults",           :github => "h13ronim/chef-osxdefaults"
 cookbook "dotfiles",              :github => "pr0d1r2/chef-dotfiles"
 cookbook "drivers",               :github => "kitchenplan/chef-drivers",        :ref => "v1.0"
