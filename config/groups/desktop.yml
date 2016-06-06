@@ -17,5 +17,7 @@ attributes:
       - tunnelblick
       - torbrowser
       - cleanmymac
+    taps:
+      - dupes
   osxdefaults:
     computername: Sphere
