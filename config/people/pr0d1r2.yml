@@ -1,6 +1,7 @@
 groups:
   - desktop
   - work
+  - office
   - dt
   - dt_core
   - odroid
