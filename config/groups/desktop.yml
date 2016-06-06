@@ -18,6 +18,6 @@ attributes:
       - torbrowser
       - cleanmymac
     taps:
-      - dupes
+      - homebrew/dupes
   osxdefaults:
     computername: Sphere
