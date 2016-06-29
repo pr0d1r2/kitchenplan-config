@@ -17,6 +17,7 @@ attributes:
       - tunnelblick
       - torbrowser
       - cleanmymac
+      - handbrake
     taps:
       - homebrew/dupes
   osxdefaults:
