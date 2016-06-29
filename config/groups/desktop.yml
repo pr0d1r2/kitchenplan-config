@@ -18,6 +18,7 @@ attributes:
       - torbrowser
       - cleanmymac
       - handbrake
+      - x265
     taps:
       - homebrew/dupes
   osxdefaults:
