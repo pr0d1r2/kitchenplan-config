@@ -19,6 +19,7 @@ attributes:
       - python
       - pwgen
       - pgtune
+      - fzf
     casks:
       - time-tracker
       - skype
