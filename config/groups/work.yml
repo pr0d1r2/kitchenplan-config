@@ -20,6 +20,9 @@ attributes:
       - pwgen
       - pgtune
       - fzf
+      - pigz
+      - pbzip2
+      - pxz
     casks:
       - time-tracker
       - skype
