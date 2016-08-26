@@ -13,6 +13,7 @@ attributes:
       - imagemagick
       - chromedriver
       - redis
+      - awscli
     casks:
       - java
       - chromium
