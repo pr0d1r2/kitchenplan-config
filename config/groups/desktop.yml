@@ -9,6 +9,7 @@ attributes:
       - wget
       - youtube-dl
       - homebrew/dupes/rsync
+      - x265
     casks:
       - spotify
       - iterm2
@@ -18,7 +19,6 @@ attributes:
       - torbrowser
       - cleanmymac
       - handbrake
-      - x265
     taps:
       - homebrew/dupes
   osxdefaults:
