@@ -8,11 +8,12 @@ recipes:
 attributes:
   homebrew:
     formulas:
+      - git
+      - zsh
+      - ag
+      - macvim
       - terminal-notifier
       - ack
-      - ag
-      - git
-      - macvim
       - rpl
       - git-extras
       - ffmpeg
