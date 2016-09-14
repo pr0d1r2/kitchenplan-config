@@ -12,6 +12,7 @@ attributes:
       - zsh
       - ag
       - macvim
+      - ctags
       - terminal-notifier
       - ack
       - rpl
