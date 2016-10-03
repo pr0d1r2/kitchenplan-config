@@ -9,6 +9,7 @@ attributes:
       - wget
       - youtube-dl
       - homebrew/dupes/rsync
+      - homebrew/dupes/openssh
       - x265
     casks:
       - spotify
