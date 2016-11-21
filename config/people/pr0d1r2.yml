@@ -3,6 +3,7 @@ groups:
   - work
   - office
   - odroid
+  - gentoo
   - tt
   - tt_platform
   - ios

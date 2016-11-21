@@ -1,0 +1,5 @@
+attributes:
+  homebrew:
+    casks:
+      - virtualbox
+      - virtualbox-extension-pack
