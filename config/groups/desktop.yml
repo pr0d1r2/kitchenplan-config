@@ -11,6 +11,7 @@ attributes:
       - homebrew/dupes/rsync
       - homebrew/dupes/openssh
       - x265
+      - ncdu
     casks:
       - spotify
       - iterm2
