@@ -12,6 +12,7 @@ attributes:
       - homebrew/dupes/openssh
       - x265
       - ncdu
+      - watch
     casks:
       - spotify
       - iterm2
