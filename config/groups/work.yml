@@ -34,6 +34,7 @@ attributes:
       - libreoffice
       - grammarly
       - obs
+      - choosy
   rbenv:
     create_profiled: false
   mysql_root_password: "password"
