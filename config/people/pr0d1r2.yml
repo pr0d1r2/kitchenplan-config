@@ -45,12 +45,13 @@ attributes:
     user_installs:
       - user: 'pr0d1r2'
         rubies:
+          - '2.3.2'
           - '2.3.1'
           - '2.3.0'
           - '2.2.4'
           - '2.2.3'
           - '2.2.0'
-        global: '2.3.1'
+        global: '2.3.2'
         plugins:
           - name: 'rbenv-gem-rehash'
             git_url: 'https://github.com/sstephenson/rbenv-gem-rehash.git'
