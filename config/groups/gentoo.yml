@@ -3,3 +3,4 @@ attributes:
     casks:
       - virtualbox
       - virtualbox-extension-pack
+      - vagrant
