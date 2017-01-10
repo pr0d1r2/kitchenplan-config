@@ -1,5 +1,7 @@
 attributes:
   homebrew:
+    formulas:
+      - git-lfs
     casks:
       - virtualbox
       - virtualbox-extension-pack
