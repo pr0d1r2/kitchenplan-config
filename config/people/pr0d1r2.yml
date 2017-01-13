@@ -7,6 +7,7 @@ groups:
   - tt
   - tt_platform
   - ios
+  - elixir
 recipes:
   mac_os_x:
     - osxdefaults::check_for_software_updates_daily
