@@ -25,6 +25,7 @@ attributes:
       - pigz
       - pbzip2
       - pxz
+      - hunspell
     casks:
       - time-tracker
       - skype
