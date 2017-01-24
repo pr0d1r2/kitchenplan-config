@@ -26,6 +26,7 @@ attributes:
       - pbzip2
       - pxz
       - hunspell
+      - httpie
     casks:
       - time-tracker
       - skype
