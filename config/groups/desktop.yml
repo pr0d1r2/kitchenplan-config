@@ -13,6 +13,7 @@ attributes:
       - x265
       - ncdu
       - watch
+      - iozone
     casks:
       - spotify
       - iterm2
