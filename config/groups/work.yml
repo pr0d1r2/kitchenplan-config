@@ -27,6 +27,7 @@ attributes:
       - pxz
       - hunspell
       - httpie
+      - homebrew/dupes/less
     casks:
       - time-tracker
       - skype
