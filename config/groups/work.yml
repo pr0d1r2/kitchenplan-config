@@ -27,6 +27,7 @@ attributes:
       - pxz
       - hunspell
       - httpie
+      - ripgrep
       - homebrew/dupes/less
     casks:
       - time-tracker
