@@ -29,6 +29,7 @@ attributes:
       - httpie
       - ripgrep
       - mozjpeg
+      - jpegoptim
       - homebrew/dupes/less
     casks:
       - time-tracker
