@@ -28,6 +28,7 @@ attributes:
       - hunspell
       - httpie
       - ripgrep
+      - mozjpeg
       - homebrew/dupes/less
     casks:
       - time-tracker
