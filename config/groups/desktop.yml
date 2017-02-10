@@ -14,6 +14,7 @@ attributes:
       - ncdu
       - watch
       - iozone
+      - mplayer
     casks:
       - spotify
       - iterm2
