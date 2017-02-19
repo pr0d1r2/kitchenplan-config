@@ -3,3 +3,4 @@ attributes:
     formulas:
       - lua
       - pr0d1r2/contrib/lua_rocks
+      - pr0d1r2/contrib/open_resty
