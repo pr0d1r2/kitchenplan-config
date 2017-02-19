@@ -31,6 +31,7 @@ attributes:
       - mozjpeg
       - jpegoptim
       - optipng
+      - gpg
       - homebrew/dupes/less
     casks:
       - time-tracker
