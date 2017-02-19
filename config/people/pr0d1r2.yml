@@ -8,6 +8,7 @@ groups:
   - tt_platform
   - ios
   - elixir
+  - lua
 recipes:
   mac_os_x:
     - osxdefaults::check_for_software_updates_daily

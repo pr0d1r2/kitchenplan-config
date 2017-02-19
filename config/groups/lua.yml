@@ -1,0 +1,5 @@
+attributes:
+  homebrew:
+    formulas:
+      - lua
+      - pr0d1r2/contrib/lua_rocks
