@@ -24,6 +24,7 @@ attributes:
       - torbrowser
       - cleanmymac
       - handbrake
+      - vlc
     taps:
       - homebrew/dupes
   osxdefaults:
